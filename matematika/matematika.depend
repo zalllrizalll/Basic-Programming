@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647740782 source:d:\algoritma pemrograman\koding c++\pertemuan 2\matematika\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+
